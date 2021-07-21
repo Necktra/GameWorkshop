@@ -1,0 +1,16 @@
+#map {
+    width: 800px;
+    height: 700px;
+    background: lawngreen;
+    position: relative;
+}
+
+#player {
+    width: 100px;
+    height: 100px;
+    /* background: blue; */
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
